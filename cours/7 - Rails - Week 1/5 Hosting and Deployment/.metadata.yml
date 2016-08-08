@@ -1,0 +1,8 @@
+lectures:
+  - rails/05-image-upload
+  - rails/extra-02-rails-refacto
+
+lecture:
+  fr:
+    video: 155120876
+    # video: 137223621  # Paperclip - AWS

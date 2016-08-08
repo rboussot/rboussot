@@ -1,0 +1,15 @@
+number_to_guess = rand(1..100)
+user_put = 101
+puts "Devinez un nombre entre 1 et 100 :"
+
+while user_input != number_to_guess
+  user_input = gets.chomp
+  if user_input > number_to_guess
+    puts "trop gand"
+    puts "essaie encore"
+  elsif user_input < number_to_guess
+    puts "trop petit"
+    puts "essaie encore"
+  end
+end
+puts "Gagné"

@@ -1,0 +1,8 @@
+help: true
+
+lectures:
+  - rails/09-fb-connect
+
+lecture:
+  fr:
+    video: 137231961

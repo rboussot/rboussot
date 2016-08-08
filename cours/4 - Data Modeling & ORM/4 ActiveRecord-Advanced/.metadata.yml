@@ -1,0 +1,10 @@
+lectures:
+  - db/04-active-record-advanced
+
+lecture:
+  fr:
+    video: 135351878
+
+livecode:
+  fr:
+    video: 135502571

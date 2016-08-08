@@ -1,0 +1,11 @@
+lectures:
+  - rails/03-rails-advanced
+  - rails/extra-01-rails-front-end
+
+lecture:
+  fr:
+    video: 136725134
+
+livecode:
+  fr:
+    video: 136743151
